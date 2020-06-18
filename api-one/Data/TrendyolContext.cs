@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+
 namespace api_one.Data
 {
  public class TrendyolContext : DbContext
