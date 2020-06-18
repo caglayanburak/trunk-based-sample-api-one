@@ -1,2 +1,4 @@
 api-one/obj/*
 api-one/bin/*
+apionedatabase/bin/*
+/apionedatabase/obj/Debug
