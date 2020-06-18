@@ -1,5 +1,13 @@
 api-one/obj/*
 api-one/bin/*
-apionedatabase/bin/*
-/apionedatabase/obj/Debug
-/apionedatabase
+/apionedatabase/obj/Debug/apionedatabase.dll
+/apionedatabase/apionedatabase.publish.xml
+/apionedatabase/bin/Debug/DeploymentReport.txt
+/apionedatabase/bin/Debug/apionedatabase.pdb
+/apionedatabase/bin/Debug/apionedatabase.dll
+/apionedatabase/bin/Debug/apionedatabase.dacpac
+/apionedatabase/obj/Debug/apionedatabase.pdb
+/apionedatabase/obj/Debug/apionedatabase.sqlproj.FileListAbsolute.txt
+/apionedatabase/apionedatabase.dbmdl
+/apionedatabase/apionedatabase.jfm
+/apionedatabase/obj/Debug/Model.xml

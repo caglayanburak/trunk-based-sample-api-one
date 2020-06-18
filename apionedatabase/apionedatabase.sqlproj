@@ -64,4 +64,7 @@
   <ItemGroup>
     <Build Include="dbo\Tables\InventoryItem.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="apionedatabase.publish.xml" />
+  </ItemGroup>
 </Project>
