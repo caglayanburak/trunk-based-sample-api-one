@@ -60,11 +60,15 @@
     <Folder Include="Properties" />
     <Folder Include="dbo\" />
     <Folder Include="dbo\Tables\" />
+    <Folder Include="Scripts" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\InventoryItem.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="apionedatabase.publish.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Scripts\feature_wmsob-1402.sql" />
   </ItemGroup>
 </Project>
